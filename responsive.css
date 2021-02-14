@@ -1,0 +1,62 @@
+@media (max-width: 1000px) {
+	
+	main {
+		width: 50%;
+		text-align: center;
+		align-items: center;
+	}
+
+	nav .logo {
+		width: 50%;
+	}
+
+	section h3 {
+    	font-size: 30px;
+    }
+
+    section h1 {
+    	font-size: 30px;
+    }
+
+    section p {
+    	font-size: 20px;
+    }
+
+}
+
+
+
+@media (max-width: 670px) {
+  	main {
+   	    width: 100%;
+   	    text-align: center;
+   	    align-items: center;
+    }
+
+    nav .logo {
+    	width: 100%;
+    }
+
+    nav .menu {
+    	display: none;
+    }
+    section .btnone {
+    	width: 100%;
+    }
+
+    section .btntwo {
+    	width: 100%;
+    }
+
+    section h3 {
+    	font-size: 25px;
+    }
+
+    section h1 {
+    	font-size: 25px;
+    }
+
+    section p {
+    	font-size: 15px;
+    }
+}
